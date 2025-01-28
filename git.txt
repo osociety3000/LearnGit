@@ -1,0 +1,21 @@
+# git --version
+
+# git config --global user.name "osociety3000"
+
+# git config --global user.email "osociety3000@gmail.com"
+
+# git config --list
+
+# git init
+
+# git add .
+
+# git status
+
+# git log
+
+# git show <commit_ID>
+
+# git remote add origin <centralgit url>
+
+# git push -u origin master (Enter Username & Password)
