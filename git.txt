@@ -19,3 +19,7 @@
 # git remote add origin <centralgit url>
 
 # git push -u origin master (Enter Username & Password)
+
+# git pull origin master
+
+# git branch -M main
