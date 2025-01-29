@@ -12,7 +12,7 @@
 
 # git status
 
-# git log
+# git log   <> git log --oneline
 
 # git show <commit_ID>
 
@@ -23,3 +23,28 @@
 # git pull origin master
 
 # git branch -M main
+
+# git branch
+
+# git branch <branch_name>  // create an new branches
+
+# git checkout <branch_name>  // Switch branches
+
+# git branch -d <branch_name>  // Delete branches
+
+# git merge <branch_name>    // merge branches
+
+# git stash
+
+# git stash list
+
+# git stash apply stash@{0}
+
+# git stash clear
+
+# git reset <file_name>     // To rest staging area
+
+# git reset .
+
+# git reset --hard      // To reset the changes from both staging and working directory at a time
+
