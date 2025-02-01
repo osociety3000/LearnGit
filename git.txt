@@ -44,7 +44,22 @@
 
 # git reset <file_name>     // To rest staging area
 
-# git reset .
+# git reset .               // before commit
 
 # git reset --hard      // To reset the changes from both staging and working directory at a time
 
+# git revert <commit_ID>
+
+# git clean -n          // dry run
+
+# git clean -f             // forcefully
+
+# git tag -a <tag_name> -m <message> <commit_ID>    // apply tag
+
+# git tag
+
+# git show <tag_name>
+
+# git tag -d <tag_name>     // Delete a tag
+
+# git clone <URL_of_GitHub_Repo.>
