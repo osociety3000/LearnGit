@@ -12,6 +12,8 @@
 
 # git status
 
+# git commit -m ""
+
 # git log   <> git log --oneline
 
 # git show <commit_ID>
